@@ -22,7 +22,7 @@ The fully human-annotated ScanQA dataset with 9160 questions for train/validatio
 
 - Pre-trained checkpoint on color-only questions
 
-- [Fine-tuned checkpoint on ScanQA]([TDQA_TR-0000.model](https://portland-my.sharepoint.com/:u:/g/personal/shuquanye2-c_my_cityu_edu_hk/EfZBIfMOlMdOhipOwbCF6c8BvE_v1YA-1uqEQMnZbiWlIg?e=NBkwzN))
+- [Fine-tuned checkpoint on ScanQA](https://portland-my.sharepoint.com/:u:/g/personal/shuquanye2-c_my_cityu_edu_hk/EfZBIfMOlMdOhipOwbCF6c8BvE_v1YA-1uqEQMnZbiWlIg?e=4TjS5O)
 
 ## BibTeX
 
