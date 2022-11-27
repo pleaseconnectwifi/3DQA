@@ -2,7 +2,7 @@
 
 ![](imgs/fig1.png)
 
-### [Paper (Latest)](https://shuquanye.com/3DQAlatest.pdf) | [Paper (ArXiv)](https://arxiv.org/abs/2112.08359) | [Project Page]() | [Pre-trained Models]() | [Fully Human-annotated Dataset]()
+### [Paper (Latest)](https://shuquanye.com/3DQAlatest.pdf) | [Paper (ArXiv)](https://arxiv.org/abs/2112.08359) | [Project Page](https://shuquanye.com/3DQA_website/) | [Pre-trained Models]() | [Fully Human-annotated Dataset]()
 
 **This is the official repository for our paper *3D Question Answering*. Training code is coming soon.**
 
