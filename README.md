@@ -2,7 +2,7 @@
 
 ![](imgs/fig1.png)
 
-### [Paper (Latest)](https://shuquanye.com/3DQAlatest.pdf) | [Paper (ArXiv)](https://arxiv.org/abs/2112.08359) | [Project Page](https://shuquanye.com/3DQA_website/) | [Pre-trained Models]() | [Fully Human-annotated Dataset]()
+### [Paper (Early access)](https://doi.ieeecomputersociety.org/10.1109/TVCG.2022.3225327) | [Paper (ArXiv)](https://arxiv.org/abs/2112.08359v2) | [Project Page](https://shuquanye.com/3DQA_website/) | [Pre-trained Models]() | [Fully Human-annotated Dataset]()
 
 **This is the official repository for our paper *3D Question Answering*. Training code is coming soon.**
 
@@ -27,10 +27,12 @@ The fully human-annotated ScanQA dataset with 9160 questions for train/validatio
 ## BibTeX
 
 ```
-@article{ye20213d,
-  author    = {Ye, Shuquan and Chen, Dongdong and Han, Songfang and Liao, Jing},
-  title     = {Learning with Noisy Labels for Robust Point Cloud Segmentation},
-  journal={arXiv preprint arXiv:2112.08359},
-  year      = {2021},
+@ARTICLE {ye2021tvcg3dqa,
+author = {S. Ye and D. Chen and S. Han and J. Liao},
+journal = {IEEE Transactions on Visualization &amp; Computer Graphics},
+title = {3D Question Answering},
+issn = {1941-0506},
+pages = {1-16},
+doi = {10.1109/TVCG.2022.3225327}
 }
 ```
