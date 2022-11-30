@@ -24,6 +24,10 @@ The fully human-annotated ScanQA dataset with 9160 questions for train/validatio
 
 - [Fine-tuned checkpoint on ScanQA](https://portland-my.sharepoint.com/:u:/g/personal/shuquanye2-c_my_cityu_edu_hk/EfZBIfMOlMdOhipOwbCF6c8BvE_v1YA-1uqEQMnZbiWlIg?e=4TjS5O)
 
+## Acknowledgement
+
+The data collection webpage is based on [ScanRefer](https://daveredrum.github.io/ScanRefer/). We thank the authors for sharing their codebase!
+
 ## BibTeX
 
 ```
